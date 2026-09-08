@@ -1,0 +1,18 @@
+h2 {
+    font-family: Georgia, serif;
+    font-size: 22px;
+}
+
+table {
+    border-spacing: 12px 10px;
+}
+
+td {
+    padding: 8px 7px;
+    border: 1px solid black;
+    border-radius: 8px;
+    box-shadow: 2px 3px 3px #888;
+    font-family: Georgia, serif;
+    font-size: 18px;
+    background-color: white;
+}
