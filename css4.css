@@ -1,0 +1,28 @@
+body{background-color: bisque;
+font-family: 'Times New Roman', Times, serif;
+margin: 20px;}
+h1{font-size: 28px;
+margin-bottom: 20px;}
+.B {border: 1px solid #000;
+background-color: white;
+padding: 15px;
+max-width: 580px;
+margin-bottom: 20px;}
+.C{border-style: dashed;
+background-color: white;
+padding: 15px;
+max-width: 580px;
+margin-bottom: 20px;}
+.C p{border: 1px dashed red;
+ padding: 3px;}
+ .D{border: 1px solid #000;
+background-color: white;
+padding: 15px;
+max-width: 580px;
+margin-bottom: 20px;
+color :purple}
+.S{background-color: orange;
+font-weight: bold;
+padding: 1px;}
+.F{background-color: yellow;
+font-weight: bold;padding: 1px;}
