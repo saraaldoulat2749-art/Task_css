@@ -1,0 +1,24 @@
+.container{
+display: flex;
+gap: 10px;
+
+}
+.container div {
+    width: 260px;
+    border: 1px solid #aaa;
+    display: flex;
+    flex-direction: column;}
+
+
+    .flex {
+    margin-top: auto;
+    background-color: black;
+    color: white;
+    padding:10px;
+    margin-bottom: 0;
+}
+h3 {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 28px;
+}
