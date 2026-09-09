@@ -5,6 +5,7 @@ display: flex;
 position: relative;
 border: 2px dotted black;
 background-color: red;
+
 }
 .absolute{
     position: absolute;
@@ -15,9 +16,13 @@ background-color: red;
     position:relative;
     top: 15px;
     left: 20px;
+             border: none;
+
 }
-.green {
+ .container .green {
     background-color: green;
+         border: none;
+           
 
 } 
 .box{
