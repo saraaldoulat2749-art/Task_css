@@ -1,0 +1,55 @@
+.A{
+display: flex;
+gap: 0px;
+ height: 700px;
+ padding: 7px;
+ background-color: antiquewhite;
+
+}
+
+div{
+    border: 1px solid #aaa;
+    display: flex;
+    color: white;
+    flex-direction: row; 
+    font-family:  serif;
+    font-size:x-large;
+    width:600px ;
+    padding: 20px;
+}
+
+.one {
+    background-color: green;
+}
+
+.two {
+    background-color: yellow;
+}
+
+.three {
+    background-color: purple;
+}
+
+.four {
+    background-color: gray;
+}
+
+.five {
+    background-color: blue;
+}
+
+.six {
+    background-color: orange;
+}
+
+.seven {
+    background-color: pink;
+}
+
+.eight {
+    background-color: red;
+}
+
+.nine {
+    background-color: brown;
+}
