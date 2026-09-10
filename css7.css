@@ -6,7 +6,8 @@ gap: 10px;
 .container div {
     width: 260px;
     border: 1px solid #aaa;
-    display: flex;
+        display: flex;
+
     flex-direction: column;}
 
 

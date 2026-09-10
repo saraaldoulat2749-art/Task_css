@@ -1,10 +1,9 @@
 .container{
 width: fit-content;    
-display: inline-block;
 display: flex;
 position: relative;
 border: 2px dotted black;
-background-color: red;
+
 
 }
 .absolute{
@@ -21,7 +20,7 @@ background-color: red;
 }
  .container .green {
     background-color: green;
-         border: none;
+    border: none;
            
 
 } 
@@ -36,4 +35,7 @@ h3{font-weight: 200;}
 .L{
          border-right: none;
 
+}
+.red{
+    background-color: red;
 }
