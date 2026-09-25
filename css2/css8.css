@@ -13,10 +13,9 @@ div{
     color: white;
     flex-direction: row; 
     font-family:  serif;
-    font-size:x-large;
-    width:600px ;
-    padding: 20px;
-}
+    font-size:xx-large;
+    flex: 1;
+    justify-content: center;}
 
 .one {
     background-color: green;

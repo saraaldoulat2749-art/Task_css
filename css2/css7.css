@@ -2,22 +2,24 @@
 display: flex;
 gap: 10px;
 
+
 }
 .container div {
     width: 260px;
     border: 1px solid #aaa;
-        display: flex;
+    display: flex;
+    flex-direction: column;
+ }
 
-    flex-direction: column;}
 
-
-    .flex {
-    margin-top: auto;
+    .flex  {
+    margin-bottom: 0;
     background-color: black;
     color: white;
     padding:10px;
-    margin-bottom: 0;
-}
+    margin-top: auto;
+    
+    }
 h3 {
     font-family: Arial;
     font-weight: bold;
